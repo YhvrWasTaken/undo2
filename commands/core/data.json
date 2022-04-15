@@ -1,0 +1,17 @@
+{
+	"name": "Core",
+	"emote": "repeat",
+	"commands": [
+		"help",
+		"about",
+		"prefix",
+		"invite",
+		"bug",
+		"suggest",
+		"set_status",
+		"ping",
+		"tags"
+	],
+	"description": "Stuff relating to the internals of undo2.",
+	"submodules": []
+}

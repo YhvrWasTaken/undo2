@@ -1,0 +1,14 @@
+**INTERCOM** Inter-server chat since April 5th.
+All commands start with your server's prefix followed by `intercom `.
+Most questions can be remedied with the guide (`intercom guide`).
+`enable` - Enable intercom.
+`disable` - Disable intercom.
+`set` - Set the intercom channel to the channel the command is run in.
+`rules` - List the rules for intercom.
+`opt <in|out>` - Opt in or out of intercom joining.
+`join <gid>` - Join a server via intercom join.
+`color <hex>` - Set your server's embed color.
+`style <style>` - Set the way messages from intercom appear on your server.
+`guide` - A guide for intercom.
+`modping` - Someone causing trouble? Ping a mod!
+`mod` - A list of commands for intercom mods.

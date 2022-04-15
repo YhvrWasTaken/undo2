@@ -1,0 +1,9 @@
+{
+	"name": "Intercom",
+	"emote": "incoming_envelope",
+	"commands": [
+		"intercom"
+	],
+	"description": "Chat between servers. Don't worry, it's moderated.",
+	"submodules": []
+}

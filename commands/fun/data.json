@@ -1,0 +1,16 @@
+{
+	"name": "Fun",
+	"emote": "tada",
+	"commands": [
+		"coin",
+		"poll",
+		"cpoll",
+		"minesweeper",
+		"pointsweeper",
+		"bitsweeper",
+		"diagonalsweeper",
+		"calc"
+	],
+	"description": "Minesweeper, memes, and all the other fun stuff is here.",
+	"submodules": ["images"]
+}

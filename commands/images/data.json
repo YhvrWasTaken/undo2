@@ -1,0 +1,15 @@
+{
+	"name": "Images",
+	"emote": "frame_photo",
+	"commands": [
+		"meme",
+		"meirl",
+		"surreal",
+		"aww",
+		"pupper",
+		"catto",
+		"reddit"
+	],
+	"description": "Memes, Cute stuff, and pretty much anything.",
+	"submodules": []
+}

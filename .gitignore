@@ -1,0 +1,23 @@
+# Node
+node_modules
+
+# Docs
+dist
+# haha, i probably could've included this.
+# idr the state it's in though.
+docs*
+
+# Old code
+/modules
+/server.js
+/db.json
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode
+
+# Industry secrets
+.env
+dump.rdb

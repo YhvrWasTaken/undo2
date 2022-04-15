@@ -1,0 +1,14 @@
+{
+	"modules": [
+		"fun",
+		"covid-19",
+		"core",
+		"intercom"
+	],
+	"binds": {
+		"ps": "pointsweeper",
+		"ic": "intercom",
+		"t": "tags",
+		"h": "help"
+	}
+}

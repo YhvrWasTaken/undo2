@@ -1,0 +1,26 @@
+{
+  "name": "undo2",
+  "version": "2.0.0",
+  "description": "A discord bot that you probably shouldn't use.",
+  "main": "undo2.js",
+  "scripts": {
+    "start": "node .",
+    "docs": "node docs.js"
+  },
+  "dependencies": {
+    "@keyv/redis": "^2.1.2",
+    "@ksoft/api": "^3.1.9",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.2",
+    "https": "^1.0.0",
+    "keyv": "^4.0.1",
+    "ksoft.js": "^3.1.4",
+    "mathjs": "^6.6.4",
+    "minisweeper": "^1.0.5"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT"
+}

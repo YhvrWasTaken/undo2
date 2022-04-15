@@ -1,0 +1,9 @@
+{
+	"name": "Economy",
+	"emote": "potato",
+	"commands": [
+		"economy"
+	],
+	"description": "A simple economy.",
+	"submodules": []
+}

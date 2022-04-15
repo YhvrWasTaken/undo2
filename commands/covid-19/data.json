@@ -1,0 +1,10 @@
+{
+	"name": "COVID-19",
+	"emote": "microbe",
+	"commands": [
+		"covid",
+		"covid_country"
+	],
+	"description": "Get info on COVID-19 based on your country, or around the world.",
+	"submodules": []
+}
